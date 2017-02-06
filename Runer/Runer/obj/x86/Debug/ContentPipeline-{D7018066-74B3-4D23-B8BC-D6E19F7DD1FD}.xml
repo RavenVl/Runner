@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>idle.png</Source>
+      <Name>idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raven\Documents\Visual Studio 2010\Projects\Runer\Runer\Runer\bin\x86\Debug\Content\idle.xnb</Output>
+      <Time>2013-03-20T15:07:48.7388912+04:00</Time>
+    </Item>
+    <Item>
+      <Source>jump.png</Source>
+      <Name>jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raven\Documents\Visual Studio 2010\Projects\Runer\Runer\Runer\bin\x86\Debug\Content\jump.xnb</Output>
+      <Time>2013-03-20T15:07:48.7428915+04:00</Time>
+    </Item>
+    <Item>
+      <Source>run.png</Source>
+      <Name>run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raven\Documents\Visual Studio 2010\Projects\Runer\Runer\Runer\bin\x86\Debug\Content\run.xnb</Output>
+      <Time>2013-03-20T15:07:48.7458916+04:00</Time>
+    </Item>
+    <Item>
+      <Source>earth_00001.png</Source>
+      <Name>earth_00001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raven\Documents\Visual Studio 2010\Projects\Runer\Runer\Runer\bin\x86\Debug\Content\earth_00001.xnb</Output>
+      <Time>2013-03-22T11:20:19.7559518+04:00</Time>
+    </Item>
+    <Item>
+      <Source>kirpich_00001.png</Source>
+      <Name>kirpich_00001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raven\Documents\Visual Studio 2010\Projects\Runer\Runer\Runer\bin\x86\Debug\Content\kirpich_00001.xnb</Output>
+      <Time>2013-03-22T11:20:32.1406602+04:00</Time>
+    </Item>
+    <Item>
+      <Source>zvezda_00001.png</Source>
+      <Name>zvezda_00001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raven\Documents\Visual Studio 2010\Projects\Runer\Runer\Runer\bin\x86\Debug\Content\zvezda_00001.xnb</Output>
+      <Time>2013-03-27T12:03:23.0456786+04:00</Time>
+    </Item>
+    <Item>
+      <Source>gameFont.spritefont</Source>
+      <Name>gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raven\Documents\Visual Studio 2010\Projects\Runer\Runer\Runer\bin\x86\Debug\Content\gameFont.xnb</Output>
+      <Time>2013-03-27T13:14:46.3706707+04:00</Time>
+    </Item>
+    <Item>
+      <Source>monstr_run.png</Source>
+      <Name>monstr_run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raven\Documents\Visual Studio 2010\Projects\Runer\Runer\Runer\bin\x86\Debug\Content\monstr_run.xnb</Output>
+      <Time>2013-03-28T13:56:14.5837857+04:00</Time>
+    </Item>
+    <Item>
+      <Source>musika.mp3</Source>
+      <Name>musika</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raven\Documents\Visual Studio 2010\Projects\Runer\Runer\Runer\bin\x86\Debug\Content\musika.xnb</Output>
+      <Extra>C:\Users\Raven\Documents\Visual Studio 2010\Projects\Runer\Runer\Runer\bin\x86\Debug\Content\musika.wma</Extra>
+      <Time>2013-03-29T13:06:25.8426368+04:00</Time>
+    </Item>
+    <Item>
+      <Source>sound.wav</Source>
+      <Name>sound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raven\Documents\Visual Studio 2010\Projects\Runer\Runer\Runer\bin\x86\Debug\Content\sound.xnb</Output>
+      <Time>2013-03-29T13:40:37.0949617+04:00</Time>
+    </Item>
+    <Item>
+      <Source>sound1.wav</Source>
+      <Name>sound1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raven\Documents\Visual Studio 2010\Projects\Runer\Runer\Runer\bin\x86\Debug\Content\sound1.xnb</Output>
+      <Time>2013-03-29T13:46:06.8718239+04:00</Time>
+    </Item>
+    <Item>
+      <Source>font_menu.spritefont</Source>
+      <Name>font_menu</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raven\Documents\Visual Studio 2010\Projects\Runer\Runer\Runer\bin\x86\Debug\Content\font_menu.xnb</Output>
+      <Time>2013-04-02T12:27:12.4584651+04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{D7018066-74B3-4D23-B8BC-D6E19F7DD1FD}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Raven\Documents\Visual Studio 2010\Projects\Runer\Runer\RunerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Raven\Documents\Visual Studio 2010\Projects\Runer\Runer\Runer\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Raven\Documents\Visual Studio 2010\Projects\Runer\Runer\Runer\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Raven\Documents\Visual Studio 2010\Projects\Runer\Runer\Runer\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-02-18T11:07:25.3757221+04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,6 @@
+Content\idle.xnb
+Content\jump.xnb
+Content\run.xnb
+Content\earth_00001.xnb
+Content\kirpich_00001.xnb
+Content\level1.txt

@@ -1,0 +1,2 @@
+C:\Users\Raven\Documents\Visual Studio 2010\Projects\Runer\Runer\RunerContent\obj\x86\Debug\RunerContent.contentprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\Runer\Runer\RunerContent\obj\x86\Debug\ResolveAssemblyReference.cache
